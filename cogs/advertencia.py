@@ -5,17 +5,17 @@ from datetime import datetime, timezone
 # ──────────────────────────────────────────────
 #  CONFIGURAÇÕES
 # ──────────────────────────────────────────────
-CARGOS_PERMITIDOS   = [1394099683244376150]       # 🔑┋Perm. Advertência
+CARGOS_PERMITIDOS   = []       # Insira o id do cargo que pode dar advertencia
 
 CARGOS_ADVERTENCIA  = {
-    "ADV1": 1394099683286323212, # Cargo ADV1
-    "ADV2": 1394099683286323211, # Cargo ADV2
-    "ADV3": 1394099683265220697, # Cargo ADV3
-    "ADV4": 1507052376954241075, # Cargo ADV4 (Exoneração insta)
+    "ADV1": , # Insira o id do cargo ADV1
+    "ADV2": , #  Insira o id do cargo ADV2
+    "ADV3": , #  Insira o id do cargo ADV3
+    "ADV4": , #  Insira o id do cargo ADV4
 }
 
-CANAL_PENALIDADES_ID = 1413620455016894475        # canal de penalidades (embed limpo)
-CANAL_LOG_ADV_ID     = 1404103397195518053        # canal de log
+CANAL_PENALIDADES_ID = # canal de penalidades (embed limpo)
+CANAL_LOG_ADV_ID     = # canal de log
 
 
 # ──────────────────────────────────────────────
