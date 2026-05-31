@@ -225,18 +225,3 @@ O projeto utiliza dois mecanismos de persistência:
 
 ---
 
-## Aviso de Segurança
-
-> ⚠️ O arquivo `.env` original **não deve ser incluído no repositório**. Caso o token já tenha sido exposto, **revogue-o imediatamente** no [Portal de Desenvolvedores do Discord](https://discord.com/developers/applications) e gere um novo.
-
-Adicione ao `.gitignore`:
-
-```
-.env
-*.db
-__pycache__/
-*.pyc
-```
-
----
-
