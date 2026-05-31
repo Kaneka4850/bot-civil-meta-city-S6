@@ -4,7 +4,7 @@ from datetime import datetime
 
 # --- CONFIGURAÇÕES ---
 # ID do canal onde os registros de ausência serão enviados
-ID_CANAL_LOGS = 1420450395762987090  
+ID_CANAL_LOGS = # Insira o ID aqui  
 
 class AbsenceModal(discord.ui.Modal, title="Formulário de Ausência"):
     """
