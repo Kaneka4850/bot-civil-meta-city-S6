@@ -5,7 +5,7 @@ import re
 # ──────────────────────────────────────────────
 # 📋 CANAIS QUE RECEBERÃO O RELATÓRIO
 # ──────────────────────────────────────────────
-CANAIS_ENVIO: list[int] = [1427366956914180320] # Canal de registro de ações
+CANAIS_ENVIO: list[int] = [] # Insira o id do canal 
 
 # ──────────────────────────────────────────────
 # CONSTANTES DOS FIELD NAMES (evita typos)
