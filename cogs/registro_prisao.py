@@ -8,8 +8,8 @@ from datetime import datetime
 # ==========================================
 # VARIÁVEIS DE CONFIGURAÇÃO
 # ==========================================
-CARGO_AUTORIZADO = 1394099683298902197  # Cargo de curso de prisões
-CANAL_REGISTRO   = 1394099684842410115  # Canal onde a log final será enviada
+CARGO_AUTORIZADO = # Cargo que pode fazer o registro
+CANAL_REGISTRO   = # Canal onde a log final será enviada
 
 TIMEOUT_POR_PERGUNTA = 600.0  # 10 minutos por resposta
 TIMEOUT_GLOBAL       = 3600.0 # 1 hora no total — segurança contra formulários eternos
