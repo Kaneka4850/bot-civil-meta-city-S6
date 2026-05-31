@@ -5,10 +5,10 @@ from discord.ext import commands
 # ─────────────────────────────────────────────
 # IDs centralizados
 # ─────────────────────────────────────────────
-CARGO_PERMITIDO    = 1394099683244376150   # Permissão de advertência
-CANAL_ALINHAMENTO  = 1465381310821302373   # Canal onde o embed de convocação é enviado
-CANAL_LOGS         = 1404103397195518053   # Canal de logs
-LINK_CALL          = "https://discord.com/channels/1394099683244376146/1508540740257579080"
+CARGO_PERMITIDO    = # Permissão de advertência
+CANAL_ALINHAMENTO  = # Canal onde o embed de convocação é enviado
+CANAL_LOGS         = # Canal de logs
+LINK_CALL          = # Insira o link do canal de chamada do discord
 
 # ─────────────────────────────────────────────
 # Regex de validação
