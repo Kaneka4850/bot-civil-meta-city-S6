@@ -14,10 +14,10 @@ from utils.logger import log_event
 from utils.permissao import is_admin
 
 # 🔧 IDs e configuração
-Cargos_aprovadores = [1465384441097617591] # Cargo 🔑┋Perm. recrutamento
-Cargo_membro = 1394099683265220690 # Cargo policia civil
-Canal_logs = 1465386423573282887 # Cargos logs
-canal_aprovacao = 1465386391973134450 # Canal de aprovação
+Cargos_aprovadores = [] # Lista de cargos que podem recrutar
+Cargo_membro = # Cargo policia civil
+Canal_logs = # Cargos logs
+canal_aprovacao =# Canal de aprovação
 
 
 # 🔹 Função para enviar logs e embeds
