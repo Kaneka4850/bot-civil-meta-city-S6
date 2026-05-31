@@ -6,10 +6,10 @@ import re
 # ============================================================
 #  CONSTANTES — ajuste conforme seu servidor
 # ============================================================
-CARGO_INSTRUTOR_ID    = 1458520543014686860   # Cargo 🧑‍🏫| Instrutor
-CARGO_POLICIA_ID      = 1394099683265220690   # ID do cargo @Policia Civil
-CANAL_CURSOS_ID       = 1439829920640405544   # Canal 🚨・avisos-cursos
-CURSOS_PENDENTES      = 1439829784652943470  # Canal 🖥️・solicitar-curso
+CARGO_INSTRUTOR_ID    = # Cargo autorizado a passar os cursos
+CARGO_POLICIA_ID      = # ID do cargo a ser mencionado no embed
+CANAL_CURSOS_ID       = # ID do canal os cursos serão avisados
+CURSOS_PENDENTES      = # Canal para solicitar aprovação do curso
 # ============================================================
 
 # ---------------------------------------------------------------------------
