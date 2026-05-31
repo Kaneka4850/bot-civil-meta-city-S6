@@ -1,6 +1,6 @@
-# 🚔 Bot Civil — MetaCity S6
+# 🚔 Bot Policia Civil — GTA RP
 
-Bot de gerenciamento interno da **Polícia Civil** do servidor de GTA RP **MetaCity**, desenvolvido com `discord.py 2.x`. Automatiza fluxos administrativos da corporação: cadastro de oficiais, registro de ações, sistema disciplinar, corregedoria, cursos e muito mais.
+Bot de gerenciamento interno da **Polícia Civil** para servidores de GTA RP/FIVEM, desenvolvido com `discord.py 2.x`. Automatiza fluxos administrativos da corporação: cadastro de oficiais, registro de ações, sistema disciplinar, corregedoria, cursos e muito mais.
 
 ---
 
